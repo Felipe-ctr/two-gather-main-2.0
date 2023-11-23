@@ -53,3 +53,18 @@
     text-transform: uppercase;
     
 }
+.pontilhado{
+    margin-top: -160px;
+    margin-left: 15%;
+}
+.fundo2{
+    width: 100%;
+    height: 11293px;
+    background-color: black;
+    margin-top: -90px;
+}
+.upgrade{
+    color: white;
+    margin-left: 45%;
+    padding-top: 100px;
+}
