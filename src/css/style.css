@@ -91,7 +91,7 @@
     height: 550px;
     border-radius: 20px;
     border: 3px solid rgba(217, 17, 73, 0.25);
-    margin-left: 12%;
+    margin-left: 10%;
     margin-top: 50px;
 }
 .barrinha{
@@ -123,6 +123,7 @@
     margin-top: 40px;
     margin-left: -120px;
 }
+   
 .box2{
     width: 387px;
     height: 387px;
@@ -131,7 +132,7 @@
     backdrop-filter: blur(7.5px);
     margin-top: 40px;
     margin-left: 29%;
-    margin-top: -40.5%;    
+    margin-top: -39%;    
 }
 .box3{
     width: 387px;
@@ -141,7 +142,7 @@
     backdrop-filter: blur(7.5px);
     margin-top: 40px;
     margin-left: 70%;
-    margin-top: -40.5%;
+    margin-top: -39%;
 }
 .linha{
     width: 357px;
@@ -149,6 +150,27 @@
     border-radius: 15px;
     border: 1px solid rgba(217, 17, 73, 0.70);
     backdrop-filter: blur(7.5px);
-    margin-top: 40px;
+    margin-left: -107px;
+    margin-top: -37%;
+
+
    
+}
+.linha2{
+    width: 357px;
+    height: 357px;
+    border-radius: 15px;
+    border: 1px solid rgba(217, 17, 73, 0.70);
+    backdrop-filter: blur(7.5px);
+    margin-left: 302px;
+    margin-top: -36%;
+}
+.linha3{
+    width: 357px;
+    height: 357px;
+    border-radius: 15px;
+    border: 1px solid rgba(217, 17, 73, 0.70);
+    backdrop-filter: blur(7.5px);
+    margin-left: 71.5%;
+    margin-top: -36%;
 }
