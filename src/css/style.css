@@ -114,3 +114,41 @@
     margin-left: 68.8%;
     margin-top: -19px;
 }
+.box{
+    width: 387px;
+    height: 387px;
+    border-radius: 15px;
+    background: rgba(41, 9, 46, 0.60);
+    backdrop-filter: blur(7.5px);
+    margin-top: 40px;
+    margin-left: -120px;
+}
+.box2{
+    width: 387px;
+    height: 387px;
+    border-radius: 15px;
+    background: rgba(41, 9, 46, 0.60);
+    backdrop-filter: blur(7.5px);
+    margin-top: 40px;
+    margin-left: 29%;
+    margin-top: -40.5%;    
+}
+.box3{
+    width: 387px;
+    height: 387px;
+    border-radius: 15px;
+    background: rgba(41, 9, 46, 0.60);
+    backdrop-filter: blur(7.5px);
+    margin-top: 40px;
+    margin-left: 70%;
+    margin-top: -40.5%;
+}
+.linha{
+    width: 357px;
+    height: 357px;
+    border-radius: 15px;
+    border: 1px solid rgba(217, 17, 73, 0.70);
+    backdrop-filter: blur(7.5px);
+    margin-top: 40px;
+   
+}
