@@ -4,7 +4,7 @@
     height: 915px;
 }
 .consutoria{
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 150px;
     width: 150px;
     height: 69px ;
@@ -13,7 +13,7 @@
     width: 690px;
     height: 176px;
     color: white;
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 40px;
     font-family: libre Franklin;
     font-size: 50px;
@@ -21,7 +21,7 @@
     line-height: normal;
 }
 .clareza{
-    margin-left: 15%;
+    margin-left: 10%;
     color: rgba(255, 255, 255, 0.75);
     width: 660px;
     height: 84px;
@@ -40,7 +40,7 @@
     gap: 35px;
     border-radius: 60px;
     background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 60px;
 }
 .entre-em-contato{
@@ -55,7 +55,7 @@
 }
 .pontilhado{
     margin-top: -160px;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 .fundo2{
     width: 100%;
@@ -65,6 +65,52 @@
 }
 .upgrade{
     color: white;
-    margin-left: 45%;
-    padding-top: 100px;
+    text-align: center;
+    margin-left: 10%;
+    padding-top: 105px;
+    font-family: libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.vendas{
+    color: var(--Rose1, #D91149);
+    padding-top: 5px;
+    text-align: center;
+    margin-left: 10%;
+    font-family: libre Franklin;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    text-transform: uppercase;
+}
+.boxs{
+    width: 996px;
+    height: 550px;
+    border-radius: 20px;
+    border: 3px solid rgba(217, 17, 73, 0.25);
+    margin-left: 12%;
+    margin-top: 50px;
+}
+.barrinha{
+    width: 80px;
+    height: 20px;
+    border-radius: 20px;
+    background: rgba(217, 17, 73, 0.15);
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.eclipse3{
+    margin-left: 78%;
+    margin-top: -20px;
+}
+.eclipse2{
+    margin-left: 73%;
+    margin-top: -19px;
+}
+.eclipse1{
+    margin-left: 68.8%;
+    margin-top: -19px;
 }
