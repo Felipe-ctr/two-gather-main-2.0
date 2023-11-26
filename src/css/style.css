@@ -15,7 +15,7 @@
     color: white;
     margin-left: 10%;
     margin-top: 40px;
-    font-family: libre Franklin;
+    font-family: Libre Franklin;
     font-size: 50px;
     font-weight: 600;
     line-height: normal;
@@ -181,7 +181,7 @@
 }
 .text-cerebro{
     color: white;
-    font-family:Libre franklin;
+    font-family:libre Franklin;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -195,7 +195,7 @@
 }
 .text-lupa{
     color: white;
-    font-family:Libre franklin;
+    font-family:libre Franklin;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -209,7 +209,7 @@
 }
 .text-moeda{
     color: white;
-    font-family:Libre franklin;
+    font-family:libre Franklin;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -233,7 +233,7 @@
 }
 .trafego{
     color: white;
-    font-family:Libre franklin;
+    font-family:libre Franklin;
     font-size: 38px;
     font-style: normal;
     font-weight: 600;
@@ -253,7 +253,7 @@
 .problema{
     text-align: center;
     color: #FFF;
-    font-family: Libre Franklin;
+    font-family: libre Franklin;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -262,5 +262,93 @@
     margin-top: 5%;
 }
 .traco-central{
+    margin-left: 15px;
     
 }
+.traco-direito{
+    margin-left: 15px;
+ 
+}
+
+.tracos{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-left: 10%;
+
+}
+.boxs2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boxs2-1{
+    width: 380px;
+    height: 170px;
+    border-radius: 15px;
+    border: 1px solid #4F1941;
+    backdrop-filter: blur(7.5px);
+    margin-left: 10%;
+    
+}
+.boxs2-2{
+    width: 380px;
+    height: 170px;
+    border-radius: 15px;
+    border: 1px solid #4F1941;
+    backdrop-filter: blur(7.5px);
+    margin-left: 2%;
+}
+.boxs2-3{
+    width: 380px;
+    height: 170px;
+    border-radius: 15px;
+    border: 1px solid #4F1941;
+    backdrop-filter: blur(7.5px);
+    margin-left: 2%;
+}
+.bolinha1{
+    margin-left: 86px;
+    margin-top: -10px;
+    
+}
+.bolinha2{
+    margin-left: 86px;
+    margin-top: -10px; 
+}
+.bolinha3{
+    margin-left: 84px;
+    margin-top: -10px;
+}
+.text-projeto{
+    color: white;
+    margin-top: 30px;
+    font-family: libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+.text-resultados{
+    color: white;
+    margin-top: 30px;
+    font-family: libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+.text-aparentemente{
+    color: white;
+    margin-top: 30px;
+    font-family: libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
