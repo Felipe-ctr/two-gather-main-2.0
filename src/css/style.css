@@ -59,7 +59,7 @@
 }
 .fundo2{
     width: 100%;
-    height: max-content;
+    height: 100%;
     background-color: black;
     margin-top: -90px;
 }
@@ -190,7 +190,77 @@
     margin-top: 10%;
 }
 .lupa-img{
-    margin-top: 18%;
+    margin-top: 16%;
     margin-left: 12%;
 }
-
+.text-lupa{
+    color: white;
+    font-family:Libre franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 12%;
+    margin-top: 8%; 
+}
+.moeda-img{
+    margin-top: 16%;
+    margin-left: 12%;
+}
+.text-moeda{
+    color: white;
+    font-family:Libre franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 12%;
+    margin-top: 10%;
+}
+.pontilhado-linha-img{
+    margin-top: 5%;
+    padding-left: 55%;
+}
+.fundos3{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+.pontos-back{
+   height: 100%;
+   width: 100%;
+   margin-top: 4%;
+}
+.trafego{
+    color: white;
+    font-family:Libre franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 10%;
+    margin-top: -15%;
+    text-align: center;
+}
+.blur{
+    width: 580px;
+    height: 170px;
+    transform: rotate(-0,541deg);
+    border-radius: 580px;
+    background: rgba(0, 0, 0, 0.90);
+    backdrop-filter: blur(50px);
+}
+.problema{
+    text-align: center;
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;  
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.traco-central{
+    
+}
