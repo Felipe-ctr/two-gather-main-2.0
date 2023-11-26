@@ -262,11 +262,11 @@
     margin-top: 5%;
 }
 .traco-central{
-    margin-left: 15px;
+    margin-left: 10px;
     
 }
 .traco-direito{
-    margin-left: 15px;
+    margin-left: 10px;
  
 }
 
@@ -275,7 +275,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    padding-left: 10%;
+    padding-left: 5%;
 
 }
 .boxs2{
@@ -289,7 +289,7 @@
     border-radius: 15px;
     border: 1px solid #4F1941;
     backdrop-filter: blur(7.5px);
-    margin-left: 10%;
+    margin-left: 5%;
     
 }
 .boxs2-2{
@@ -350,5 +350,78 @@
     font-weight: 400;
     line-height: 26px;
     text-align: center;
+}
+.caixa-rosa{
+    display: flex;
+    width: 80%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+    margin-left: 13%;
+
+    margin-top: 5%;
+;
+}
+.gather-logo{
+    margin-top: -13%;
+   
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+   
+
+
+}
+.text-provavelmente{
+    text-align: center;
+    color: white;
+    font-family: libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: -5%;
+    margin-left: -15%;
+
+}
+.text-empresas{
+    color: white;
+    font-family: libre Franklin;
+    text-align: center;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    margin-top: 4%;
+    margin-left: -50%;
+
+}
+.text-milhares{
+    color: white;
+    font-family: libre Franklin;
+    text-align: center;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    margin-top: 12%;
+    margin-left: -35%;
+}
+.fundos4{
+    width: 100%;
+    height: 100%;
+    background: #270417
+}
+.pedro{
+    background: url(../img/pedroOlhar\ 1.png), #270417 50% / cover no-repeat;
+    width: 500px;
+    height: 470px;
+    margin-left: 10%;
+}
+.olho{
+    margin-left: 70%;
+    margin-top: 20%;
 }
 
