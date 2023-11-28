@@ -508,5 +508,55 @@
     height: 200px;
     border-radius: 15px;
     background:var(--Roxo, #120414);
+    margin-left: 55%;
+    margin-top: -50%;
+}
+.text-red{
+    color: #D91149;
+    font-family: libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    padding-top: 8%;
+}
+.sub-titulo{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+   
+    padding-top: 2%;
+    padding-left: 18%;
+}
+.sub-boxs-2{
+    width: 690px;
+    height: 200px;
+    border-radius: 15px;
+    background:var(--Roxo, #120414);
+    margin-left: 55%;
+    margin-top: 2%;
+}
+.text-red-2{
+    color: #D91149;
+    font-family: libre Franklin;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-left: 15%;
+    padding-top: 7%;
+}
+.sub-titulo-2{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+   
+    padding-top: 2%;
+    padding-left: 15%;
 }
 
