@@ -756,6 +756,418 @@
     font-weight: 400;
     line-height: normal;
 }
+.fundos7{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+.consutoria-subido{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 10%;
+}
+.contato1{
+    margin-left :38%;
+    display: inline-flex;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+    margin-top: 5%;
 
+    }
+    .subido-red-2{
+        color: #D91149;
+        font-family: libre Franklin;
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        margin-left: 65%;
+        margin-top: -12.5%;
+    }
+    .sub-text-sub{
+        color: rgba(255, 255, 255, 0.60);
+        font-family: Libre Franklin;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 200%;
+        text-transform: uppercase;
+        text-align: center
+        ;
+        margin-top: 1%;
+     }
+     .paragrafo1{
+        color: #FFF;
+        text-align: center;
+        font-family: Libre Franklin;
+        font-size: 17px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25.5px;
+        margin-top: 2%;
+     }
+.parte-branca{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px; 
+    margin-left: 23%;
+}
+.parte-vermelha{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+    margin-left: 27.5%;
+    margin-top: -1.5%
+}
+.parte-normal{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+    margin-left: 38.5%;
+    margin-top: -1.5%; 
+}
+.parte-branco-claro{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25.5px;
+    margin-left: 69.5%;
+    margin-top: -1.5%;
+}
+.parte-branca-1{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+    margin-left: 74%;
+    margin-top: -1.3%;
+}
+.box-new1{
+    display: inline-flex;
+    padding: 60px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-left: 20%;
+    }
+.box-new2{
+    display: inline-flex;
+    padding: 60px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-top: 9%;
+    margin-left: 1%;
+}
+.numero1{
+    display: flex;
+    width: 2px;
+    height: 50px;
+    padding: 40px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 90px;
+    background: #D91149;
+    margin-top: -32%;
+    margin-left: -8%;
+}
+.numero1-text{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.fase-de-grupo{
+    display: flex;
+    width: 75px;
+    padding: 10px 25px;
+    align-items: center;
+    align-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    border-radius: 90px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    margin-top: 4%;
+    }
+    .text-fase-de-grupos{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    .diagnostico{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5%;
+    }
+    .iformacoes-contas{
+     color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px ;
+    }
+    .numero2{
+    display: flex;
+    width: 2px;
+    height: 50px;
+    padding: 40px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 90px;
+    background: #D91149;
+    margin-top: -32%;
+    }
+    .numero2-text{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    .fase-de-grupos2{
+     display: flex;
+     width: 75px;
+     padding: 10px 25px;
+     align-items: center;
+    align-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    border-radius: 90px;
+    margin-top: 4%;
+    }
+    .text-fase-de-grupos-2{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+    .orientacao{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5%;
+    }
+    .tracar{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px; 
+    }
+    .new-box-3{
+        display: inline-flex;
+        padding: 60px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+        border-radius: 15px;
+        background: var(--Roxo, #120414);
+        margin-top: 8%;
+        margin-left: 20%;
+    }
+    .numero3{
+        display: flex;
+        width: 2px;
+        height: 50px;
+        padding: 40px;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        flex-shrink: 0;
+        border-radius: 90px;
+        background: #D91149;
+        margin-top: -32%;
+    }
+    .text-numero3{
+        color: #FFF;
+        font-family: Libre Franklin;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+    .fase-de-grupos3{
+        display: flex;
+        width: 75px;
+        padding: 10px 25px;
+        align-items: center;
+       align-content: center;
+       gap: 15px;
+       flex-wrap: wrap;
+       border: 1px solid rgba(255, 255, 255, 0.50);
+       border-radius: 90px;
+       margin-top: 4%;
+    }
+    .text-fase-de-grupos3{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+ }
+ .avaliacao{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5%;
+ }
+ .avaliar{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px; 
+ }
+ .new-box-4{
+    display: inline-flex;
+    padding: 60px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-top: 10%;
+    margin-left: 2%;
+ }
+ .numero4{
+    display: flex;
+    width: 2px;
+    height: 50px;
+    padding: 40px;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 90px;
+    background: #D91149;
+    margin-top: -32%
+ }
+ .text-numero4{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+ }
+ .fase-de-grupos-4{
+    display: flex;
+    width: 75px;
+    padding: 10px 25px;
+    align-items: center;
+   align-content: center;
+   gap: 15px;
+   flex-wrap: wrap;
+   border: 1px solid rgba(255, 255, 255, 0.50);
+   border-radius: 90px;
+   margin-top: 4%;
+ }  
+ .text-fase-de-grupos-4{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+ }
+ .acompanhamento{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 5%;
+ }
+ .text-acompanhamento{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+ }
+ .entre-em-contato-3{
+    display: inline-flex;
+    padding: 15px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    border-radius: 60px;
+    background: linear-gradient(90deg, #D91149 23.53%, #4F1941 99.97%);
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.entre-em-contato-3{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height:  30px;
+    text-transform: uppercase;
+}
+.back-live{
+    background: url(../img/bg-contasPedro\ 12.png), lightgray 50% / cover no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.nem-todo{
+    
+}
+ 
 
 
