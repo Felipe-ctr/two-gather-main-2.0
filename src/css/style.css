@@ -1166,8 +1166,189 @@
     height: 100%;
 }
 .nem-todo{
-    
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 10%;
+    padding-left: 10%;
 }
- 
+ .e-nem-todo{
+    color: #FFF;
+    text-align: right;
+    font-family: Libre Franklin;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height:  33px;
+    text-transform: uppercase;
+    padding-right: 10% ;
+    margin-top: -5%;
+ }
+ .texts-1{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left: 10%; 
+ }
+ .texts-2{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left: 10%;
+    padding-top: 2%; 
+ }
+ .texts-3{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left: 10%;
+    padding-top: 2%; 
+ }
+ .box.roxinha{
+    display: block;
+ }
+ .box-1-roxinha{
+    display: block;
+    width: 500px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: rgba(18, 4, 20, 0.70);
+    margin-left: 65%;
+    margin-top: -15%;
+    
+   
+ }
+ .bolinha-box-roxinha{
+    margin-right: 100%;
+    margin-top: -3%;
+    width: 25px;    
+ }
+ .text-1-box-roxinha{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 8%;
+    margin-top: -6.5%;
+ }
+ .box-2-roxinha{
+    display: block;
+    width: 500px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: rgba(18, 4, 20, 0.70);
+    margin-left: 65%;
+    margin-top: 1%;
+ }
+ .bolinha-box-roxinha{
+    margin-right: 100%;
+    margin-top: -3%;
+    width: 25px;    
+ }
+ .box-3-roxinha{
+    display: block;
+    width: 500px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: rgba(18, 4, 20, 0.70);
+    margin-left: 65%;
+    margin-top: 2%;
+ }
+ .background-black-1{
+    background: black;
+    height: 100%;
+    width: 100%;
 
-
+ }
+ .titulo-background-1{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-right: 15%;
+    padding-top: 5%;
+ }
+ .titulos-background-1-red{
+    color: #D91149;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 40%;
+    margin-top: -2.5%;
+ }
+ .box-computer{
+    width: 590px;
+    height: 360px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-top: 5%  ;
+    margin-left: 15%;
+ }
+ .computer-1{
+    padding-left: 15%;
+    margin-top: -10%;
+ }
+ .red-inicial-text{
+    color: #D91149;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-right: 2%;
+    margin-top: 5%;
+ }
+ .text-inicial-white{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-left: 30%;
+    margin-top: 2%;
+    padding-right: 20%;
+ }
+ .inicial-text-white-2{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 55%;
+    margin-top: -5%;
+ }
