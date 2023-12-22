@@ -1337,9 +1337,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 30px; 
-    margin-left: 30%;
-    margin-top: 2%;
-    padding-right: 20%;
+    margin-left: 6%;
  }
  .inicial-text-white-2{
     color: #FFF;
@@ -1352,3 +1350,145 @@
     margin-left: 55%;
     margin-top: -5%;
  }
+.box-folha{
+    width: 590px;
+    height: 360px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: var(--Roxo, #120414);
+    margin-top: 5%  ;
+    margin-left: 50%;
+    margin-top: -20%;
+ }
+ .folhas-1{
+   padding-left: 25%;
+   margin-top: -10%;
+
+ }
+ .text-inicial-white-1{
+    color: #FFF;
+    text-align: center;
+    font-family: Libre Franklin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-left: 1%;
+ }
+ .text-inferior{
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+    text-align: center;
+    padding-top: 10%;
+}
+.penultima{
+    width: 100%;
+    width: 100%;
+
+}
+.loguinho{
+    padding-top: 15%;
+    padding-left: 24%;
+}
+.box-white-1{
+    width: 387px;
+    height: 373px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+    margin-top: -10%;
+    margin-left: 15%;
+}
+.box-white-2{
+    width: 387px;
+    height: 373px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+    margin-top: -20.5%;
+    margin-left: 65%;
+}
+.box-white-3{
+    width: 387px;
+    height: 373px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(10px);
+    margin-top: -20.7%;
+    margin-left: 40%;
+}
+.titulo-final-sub{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 45px; 
+    padding-top: 13%;
+    padding-left: 10%;
+}
+.primeiro-texto{
+    color: #000;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height:25.5px; 
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+
+.quarto-texto{
+    color:#D91149 ;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height:25.5px; 
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.ultimo-back{
+    background: url(../img/bgPedroF\ 12.png), lightgray 50% / cover no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
+.quem-esta{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 10%;
+    padding-left: 65%;
+}
+.gather-red-text{
+    color: #D91149;
+    font-family: Libre Franklin;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 1.5%;
+    padding-left: 65%;
+}
+.penultimo-text-1{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left: 65%;
+    padding-top: 2%;
+}
