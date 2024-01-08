@@ -1391,71 +1391,83 @@
 
 }
 .loguinho{
-    padding-top: 15%;
+    
     padding-left: 24%;
+    margin-top: -30%;
 }
-.box-white-1{
+.boxs-white{
+    display: flex;
+    padding-top: 10%;
+    margin-top: 30%;
+    justify-content: center;
+}
+.box-filha{
     width: 387px;
     height: 373px;
     flex-shrink: 0;
     border-radius: 15px;
     background: rgba(255, 255, 255, 0.75);
     backdrop-filter: blur(10px);
-    margin-top: -10%;
-    margin-left: 15%;
+    margin-top: 10%;
+    margin-left: 0.5%;
+   
+  
 }
-.box-white-2{
+.box-filha1{
     width: 387px;
     height: 373px;
     flex-shrink: 0;
     border-radius: 15px;
     background: rgba(255, 255, 255, 0.75);
     backdrop-filter: blur(10px);
-    margin-top: -20.5%;
-    margin-left: 65%;
+    margin-top: 10%;
+    margin-left: 1%;
 }
-.box-white-3{
+.box-filha2{
     width: 387px;
     height: 373px;
     flex-shrink: 0;
     border-radius: 15px;
     background: rgba(255, 255, 255, 0.75);
     backdrop-filter: blur(10px);
-    margin-top: -20.7%;
-    margin-left: 40%;
+    margin-top: 10%;
+    margin-left: 1%;
+    
 }
-.titulo-final-sub{
+.titulo-red{
     color: #D91149;
     font-family: Libre Franklin;
     font-size: 30px;
     font-style: normal;
     font-weight: 600;
-    line-height: 45px; 
-    padding-top: 13%;
-    padding-left: 10%;
+    line-height: 150%; 
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
 }
-.primeiro-texto{
+.subtext{
     color: #000;
     font-family: Libre Franklin;
     font-size: 17px;
     font-style: normal;
     font-weight: 500;
-    line-height:25.5px; 
-    padding-left: 10%;
-    padding-top: 5%;
+    line-height: 180%;
+    display: flex; 
+    justify-content: center;
+    
 }
-
-
-.quarto-texto{
-    color:#D91149 ;
+.subtext-red{
+    color: #D91149;
     font-family: Libre Franklin;
     font-size: 17px;
     font-style: normal;
     font-weight: 500;
-    line-height:25.5px; 
-    padding-left: 10%;
-    padding-top: 5%;
+    line-height: 250%;
+    display: flex;
+    justify-content: center;
+    margin-right: 23%;
 }
+
 .ultimo-back{
     background: url(../img/bgPedroF\ 12.png), lightgray 50% / cover no-repeat;
     width: 100%;
