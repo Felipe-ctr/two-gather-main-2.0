@@ -1492,3 +1492,49 @@
     padding-left: 65%;
     padding-top: 2%;
 }
+.rodape{
+    background: var(--Roxo, #120414);
+    width: 100%;
+    width: 100%;
+}
+.imagem-rodape{
+
+    padding-left: 8%;
+    margin-top: -4%;
+}
+.traco-rodape{
+    padding-left: 18%;
+    padding-top: 1%;
+
+}
+.texto-final{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 22%;
+    margin-top: -6%;
+}
+.politica{
+    color: #FFF;
+    font-family: Libre Franklin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 52%;
+    margin-top: -2%;
+}
+.traco-final-rodape{
+    padding-left: 72%;
+    margin-top: -4.5%;
+}
+.emotions{
+    margin-left: 80%;
+    margin-top: -4.8%;
+}
+.youtube{
+    padding-left: 2% ;
+}
